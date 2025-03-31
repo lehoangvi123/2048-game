@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/jl1.0.jar",
+        "libs/mp3spi-1.9.5.jar",
+        "libs/tritonus_share.jar"
+    ]
+}
