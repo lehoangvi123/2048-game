@@ -25,3 +25,17 @@ Plan your moves instead of swiping randomly.
 Easy to learn, hard to master.
 Quick to play, with endless replay value.
 Simple interface, no distractions.
+
+
+Some picture of the game: 
+
+![image](https://github.com/user-attachments/assets/8a8653cf-5665-4fb7-a8d8-42ebf9d1fbf2) 
+
+
+
+![image](https://github.com/user-attachments/assets/2806fec9-582a-4e37-b84c-076ce8ba6236) 
+
+![image](https://github.com/user-attachments/assets/11257d92-8a94-43cd-9f78-a5883858260b)
+
+![image](https://github.com/user-attachments/assets/41ba3314-6cdf-4e7a-8266-15d6bea60f32)
+
